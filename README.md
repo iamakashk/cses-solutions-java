@@ -1,1 +1,1 @@
-# This repository will is consists of the solution of problems from https://cses.fi/problemset 
+# This repository will is consists of the java cses solutions from https://cses.fi/problemset 
